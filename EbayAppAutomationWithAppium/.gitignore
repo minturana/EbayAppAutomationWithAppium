@@ -1,0 +1,16 @@
+target
+test-output
+report
+.project
+.classpath
+.settings
+.idea
+.log
+.DS_Store
+.metadata
+/bin/
+src/test/resources/testdata/MOB2/Data.properties
+src/test/resources/testdata/APK/MOB2/
+src/test/resources/testdata/APK/DWMP/
+src/test/resources/testdata/APK/MOB/
+src/test/resources/testdata/APK/MTPM/

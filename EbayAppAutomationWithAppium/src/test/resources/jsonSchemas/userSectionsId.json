@@ -1,0 +1,54 @@
+{
+   "$schema":"http://json-schema.org/draft-04/schema#",
+   "additionalProperties":false,
+   "definitions":{
+
+   },
+   "properties":{
+      "books":{
+         "additionalItems":false,
+         "items":{
+
+         },
+         "type":"array"
+      },
+      "courseKey":{
+         "type":"string"
+      },
+      "endUtcDateTimeInMillis":{
+         "type":"integer"
+      },
+      "expirationDateInMillis":{
+         "type":"integer"
+      },
+      "gatewayCourse":{
+         "type":"boolean"
+      },
+      "id":{
+         "type":"integer"
+      },
+      "instructors":{
+         "additionalItems":false,
+         "items":{
+
+         },
+         "type":"array"
+      },
+      "readerMode":{
+         "type":"boolean"
+      },
+      "startUtcDateTimeInMillis":{
+         "type":"integer"
+      },
+      "timeZone":{
+         "type":"string"
+      },
+      "title":{
+         "type":"string"
+      },
+      "trialPeriod":{
+         "type":"boolean"
+      }
+   },
+   "type":"object"
+}

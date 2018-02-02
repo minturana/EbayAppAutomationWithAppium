@@ -1,0 +1,9 @@
+testdata: src/test/resources/testdata/
+
+YAML:
+  YAMLQA: testdata
+  YAMLDEV:
+  YAMLPROD:
+  
+ 
+

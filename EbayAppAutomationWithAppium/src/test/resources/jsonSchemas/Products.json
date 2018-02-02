@@ -1,0 +1,60 @@
+{
+    "isbn": "",
+    "productType": "",
+    "title": "",
+    "author": "",
+    "edition": "",
+    "images": [
+      {
+        "id": "",
+        "contentType": "",
+        "size": "",
+        "subject": "",
+        "data": [
+          ""
+        ]
+      }
+    ],
+    "modules": [
+      {
+        "cgi": "",
+        "type": "",
+        "title": "",
+        "description": "",
+        "version": "",
+        "packageType": "",
+        "sizeInBytes": 0,
+        "coverImageUrl": ""
+      }
+    ],
+    "courses": [
+      {
+        "id": 0,
+        "courseType": "",
+        "title": "",
+        "courseKey": "",
+        "name": "",
+        "time": "",
+        "timeZone": "",
+        "startUtcDateTimeInMillis": 0,
+        "endUtcDateTimeInMillis": 0,
+        "expirationDateInMillis": 0,
+        "instructors": [
+          {
+            "firstName": "",
+            "lastName": "",
+            "id": 0,
+            "sessionToken": "",
+            "type": "",
+            "partnerUserIds": [
+              0
+            ],
+            "ssoGuid": "",
+            "fullName": "",
+            "gatewayUser": false,
+            "partnerUserIdsToNull": "void"
+          }
+        ]
+      }
+    ]
+  }

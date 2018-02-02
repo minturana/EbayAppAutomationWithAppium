@@ -1,0 +1,17 @@
+{
+  "user": {
+    "firstName": "",
+    "lastName": "",
+    "id": 0,
+    "sessionToken": "",
+    "type": "",
+    "partnerUserIds": [
+      0
+    ],
+    "ssoGuid": "",
+    "fullName": "",
+    "gatewayUser": false,
+    "partnerUserIdsToNull": "void"
+  },
+  "token": ""
+}

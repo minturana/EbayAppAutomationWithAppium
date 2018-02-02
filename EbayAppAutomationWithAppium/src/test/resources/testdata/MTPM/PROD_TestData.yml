@@ -1,0 +1,41 @@
+users: 
+  user1:
+    email: niraj_prod@test.cengage.com
+    password: A111111
+  Pronounce:
+    email: bcstudentmobile@cengage.com
+    password: MindTap123
+  course:
+    numberOfCourse: 1
+    courseTitle: MT Pro
+    instName: AJ Instructor
+    Date: Jan 21, 2016 - Feb 1, 2016
+    Section: Section 233715
+    activityName: Chapter 3 Pronunciation Test
+    activityType: Counts towards grade
+    termName: Acetabulum
+  course1:
+    numberOfCourse: 1
+    courseTitle: Exploremos 1
+    instName: Mindtap Mobile
+    Date: Jan 5, 2017 - Jun 1, 2017
+    Section: Section 431439
+    activityName: Changed Activity 1
+    activityType: Counts towards grade
+    termName: al horno
+    
+
+
+
+Course:
+  CourseName: MT Pro
+  FLASHCARDS: CHAPTER 1 - Introduction to Medical Terminology
+  QUIZZES: Introduction to Medical Terminology
+  UNIT_VIEW:  "Chapter 3: Homework (4 parts)"
+  
+  
+
+email:
+  send: false
+  recepients:
+    recepient1: tarundwivedi@qainfotech.net

@@ -1,0 +1,225 @@
+SSO_TOKEN_URL:   http://ws.cengage.com/ssows/rest/getToken
+PRODUCT_URL2:   http://ng.cengage.com/nb/service/launch
+baseurl:   https://login.cengage.com/ssoinstructor/mydashboard.htm
+users: 
+  user1:
+    email: AutomationStudmobile@swlearning.com
+    password: A111111
+    Incorrect_password: QAIT1111
+  user3:
+    email: "mtstud_mobile@swlearning.com"
+    password: "A111111"
+  noActiveInst:
+    email: "mtinst1_11may@swlearninig.com"
+    password: "A111111"
+  k12_stud:
+    email: mtoomey
+    password: studentPass
+    Incorrect_password: QAIT1111
+  k12_stud_1:
+    email: dfreeze
+  k12_stud_2:
+    email: nzander
+  k12_stud_3:
+    email: tbertrude
+  k12_stud_4:
+    email: cmankin
+  k12_inst_1:
+    email: kim.meinrich@test.hs.edu
+  k12_inst:
+    email: julio.irvine@test.hs.edu
+    password: pa$$word
+    Incorrect_password: QAIT1111  
+  user4:
+    email: mtimobinst_automation@swlearning.com
+    password: A111111
+    Incorrect_password: QAIT1111
+  user5:
+    email: rmartin_inst@cengagetest.com
+  user2:
+   email: niraj_prod@test.cengage.com
+   password: A111111
+   Incorrect_password: QAIT1111 
+
+  CNOW:
+   email:  relaxloginstud_prod7@swlearning.com
+   password: A111111
+  OWLv2:
+   email:  relaxloginstud_prod9@swlearning.com
+   password: A111111
+  Aplia:
+   email:  apliastudmobile@swlearning.com
+   password: A111111
+  MindTap:
+   email:  relaxloginstud_prod6@swlearning.com
+   password: A111111
+  Coursemate:
+   email:  studentuser2_sso@swlearning.com
+   password: Password1
+  SAM:
+   email:  niraj@student.com
+   password: password
+  Pronounce:
+   email:  bcstudentmobile@cengage.com
+   password: MindTap123
+   
+  NonMindTapUser: relaxloginstud_prod11@swlearning.com
+  InstructorEmail:  mtinst_mobile@swlearning.com
+  InstructorIMOBEmail:  mtimobinst_automation@swlearning.com
+  NoActiveCoursesUserName: sujan.stud@cengagetest.com
+  NoActiveCourseUser: nocourse@swlearning.com
+  SSOUserName1: southwestjan2016@swlearning.com
+  SSO_password: Password1
+  Incorrect_password: 12345678
+  SSOUserName2: southstu2816@swlearning.com
+  emailnocourse: mobilestudnocourse@swlearnng.com 
+  PronouncePermanentUser: MedTerm_Stud@swlearning.com 
+  BookNotDownloadUser: aplia_stud@swlearning.com
+  
+Course:
+    Course1:
+      CourseName: Automation course 1 
+      CourseName2: MicroEconomics Course 2016
+      enrollCourseWithNoDueDate: Course_With_No_Due_Date
+      CourseName3: 14th April Course
+      CourseName4: MindTap Reader for Alexander's Joining a Community of Readers
+      CourseName5: 13th Jan Course
+      courseKey: MTPPNVDPXLZJ
+      courseKey2: MTPNJXBP0X10
+      courseKey3: MTPNN05PXL9S
+      Instructor: Mindtap Mobile
+      Date: May 10, 2018
+      ChapterName1: 1 - Art in the Stone Age
+      ChapterName2:  2 - Ancient Mesopotamia and Persia
+      BookTitle:  "Gardner's Art through the Ages: A Global History"
+      BookTitle1:  "Principles of Microeconomics"
+      BookAuthor:  "Fred S. Kleiner"
+      BookAuthor1:  "N. Gregory Mankiw"
+      Section:  section 300743
+      UNIT_VIEW:  Digital Appendix
+      ISBN:  9781305275638
+      ISBN1:  9781285853161
+      ISBN2:   9781285172040
+      noMindTapmsg:  "You have no active MindTap courses. Please login to CengageBrain to register for MindTap Courses." 
+      remove_EbookMes:  "Remove ebook from device"
+      wifi_message:  "Please check your network settings before downloading" 
+      
+    k12:  
+      courseName: "Basic Robotics"
+      isbn: "ISBN: 9781133950196"
+      Authors_Name: "by Keith Dinwiddie"
+      sectionName: "Advanced Robotics"
+      
+    Pronounce:
+      CourseName1: Exploremos 1
+      CourseName2: Pronounce
+      UnitName: "Chapter 3: Skeletal System"
+      ActivityName: Chapter 3 Pronunciation Test
+      UnitName1: "Chapter 8: The Digestive System"
+      ActivityName1: Chapter 8 Pronunciation Test
+      Instructor: Mindtap Mobile
+      Date: Jan 5, 2017 - Jun 1, 2017
+      ChapterName1: Cap?tulo 2 - ?C?mo es tu vida?
+      ChapterName2:  Cap?tulo 3 - ?Qu? tiempo hace hoy?
+      BookTitle:  "NatGeo ¡Exploremos! Nivel 1"
+      BookAuthor:  "Mary Ann  Blitt, Margarita Casas"
+      Section:  section 431439
+      courseKey:  MTPNQR0P02HQ
+      ISBN:  9781337392303
+      courseKey1:  MTPPTXGPJD9X
+      ISBN1:  9781285172040
+    
+    Course2:
+      CourseName: Prod Global History Course
+      Instructor: Mindtap Mobile
+      Date: Mar 8, 2016 - Jul 23, 2016
+      FLASHCARDS: 
+      QUIZZES: 
+      UNIT_VIEW:  
+      Section:  ""
+    
+    Course3:
+      CourseName: MedTerm Course
+      Instructor: AJ Instructor
+      Date: Dec 16, 2015 - Dec 31, 2016
+      FLASHCARDS: "Chapter 6: The Lymphatic and Immune Systems"
+      QUIZZES: The Lymphatic and Immune Systems
+      UNIT_VIEW: "Chapter 6: The Lymphatic and Immune Systems"
+      UNIT_VIEW2: Introduction
+    
+    CourseForDisabledWeekView:
+      CourseKey: MTPNWH1PM6RR
+      ISBN: 9781285852430
+   
+AudioFlashcardCourse:
+      CourseName: 13th Jan Course 
+      CourseKey: MTPN3NGP0WBN
+      ISBN: 9781337392303 
+      
+IMOBCourseDetails:
+    ImboCourse:
+      CourseName: Medical Terminology for Health Professions (with Studyware CD-ROM)
+      CourseName2: "Macroeconomics: Principles and Policy"
+      SectionName: New course
+      CourseEdition: 7th Edition
+      CourseAuthor: by Ann Ehrlich; Carol L. Schroeder
+      ISBN3:  "ISBN: 9781111543273"
+      CourseISBN:  9781285172040
+      CourseISBN2: 9781305280670
+      CourseKey:  MTPQZ5ZPFMK4
+      CourseKey2: MTPPW14PH8R6
+      CourseNameWithNoDueDate: Inst_Automation_Pronounce
+      CourseWithNoDueDateCourseKey: MTPQLD4PFN51
+      CourseWithNoDueDateISBN: 9781285172040
+      ReadingActivity: Primary Terms and Word Parts
+      UnitName: "Chapter 1: Introduction to Medical Terminology"
+      ActivityName: Chapter 1 Pronunciation Test
+      Instructor: Instructor_Automation IMOB_Mobile
+      ChapterName3: "- The Fundamental Economic Problem: Scarcity and Choice"
+Gradebook:
+    Passcode: 1234
+    ManualScore: 1.0
+    ManualComment: Testing instructor comment
+    EditedComment: Testing edited instructor comment
+
+Activities:
+    activityName: Activity1
+    activityDescription: View Edit Description For Flashcards
+
+Notifications:
+    notificationMsg: Testing Notification
+    notificationTitle: Message from Mindtap Mobile
+
+NewCourseDetails:
+    CourseName: Testing Accumen
+    ExistingCourseName: Testing Existing Course
+    CourseEndDate: 12/30/2018
+
+Flashcard:
+    key: Photography
+    definition: The art of taking pictures
+    UrlKey: https://www.linkedin.com/pulse/parallel-execution-grid-ios-android-real-devices-using-syam-sasi
+    Urldefiniton: Url Type Flashcard
+    LongTermTypeKey: ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMONOPQRSTUVWXYZABCDEFGHIJKLMONOPQRSTUVWX
+    LongtermtypeDefinition: Long Term Type Flashcard
+
+ActivityLaunchButton:
+    Reader: Launch Reader
+    Flashcard: Launch Study Tools
+    Pronounce: Start Activity
+    
+ActivitiesName:
+    ReadingActivity: Art in the Stone Age
+    PronounceActivity: Chapter 1 Pronunciation Test
+    AudioFlashcardActivity: Capítulo 1 Flashcards
+    
+LoginError: Invalid username or password
+Loginfailed: Login failed
+Expiremsg: Temporary access Expired  
+  
+
+
+email:
+  send: false
+  recepients:
+    recepient1: tarundwivedi@qainfotech.net

@@ -1,0 +1,54 @@
+users: 
+  user1:
+    email: mobilestud@swlearning.com
+    password: A111111
+    Incorrect_password: QAIT1111
+    username: Ron Student
+  user2:
+    email: rmartin_stud@cengagetest.com
+    password: A111111
+    Incorrect_password: QAIT1111 
+    username: Ron Student
+  emailnocourse: mobileNonMindTapUser@swlearning.com
+  SSOUserName: oregonprefallstudent@swlearning.com
+  emailnocourse: mobilestudnocourse@swlearnng.com 
+
+Course:
+    Course1:
+      CourseName: Public Speaking
+      Instructor: AJ Instructor
+      Date: Sep 2, 2015 - Dec 31, 2016
+      FLASHCARDS: 2 - Building Your Confidence
+      QUIZZES: Building Your Confidence
+      UNIT_VIEW:  Digital Appendix
+      Section: ""
+    Course2:
+      CourseName: Economics 201
+      Instructor: Ron Martin, Instructor Mt
+      Date: Oct 28, 2014 - Oct 2, 2016
+      FLASHCARDS: Interdependence and the Gains from Trade - 3
+      QUIZZES: Interdependence and the Gains from Trade
+      UNIT_VIEW:  second chrome upload 
+      Section: TR 3:00pm-4:00pm  |  Section 51983
+    Course3:
+      CourseName: US History 195
+      Instructor: Ron Martin
+      Date: Oct 28, 2014 - Oct 2, 2016
+      FLASHCARDS: hello
+      QUIZZES: hi
+      UNIT_VIEW:  bye
+      Section: MW 2:00-4:30  |  Section 09142
+
+version: v1.0.39 dev 
+LoginError: Invalid username or password
+Loginfailed: Login failed
+Expiremsg: Temporary access Expired  
+
+
+
+
+
+email:
+  send: false
+  recepients:
+    recepient1: tarundwivedi@qainfotech.net

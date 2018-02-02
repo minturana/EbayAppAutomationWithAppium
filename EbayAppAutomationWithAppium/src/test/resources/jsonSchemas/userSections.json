@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "id": {
+        "type": "integer"
+      },
+      "title": {
+        "type": "string"
+      },
+      "books": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "isbn": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "author": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "isbn",
+            "title",
+            "author"
+          ]
+        }
+      },
+      "weekViewEnabled": {
+        "type": "boolean"
+      },
+      "expirationDateInMillis": {
+        "type": "integer"
+      },
+      "readerMode": {
+        "type": "boolean"
+      },
+      "gatewayCourse": {
+        "type": "boolean"
+      }
+    },
+    "required": [
+      "id",
+      "title",
+      "books",
+      "weekViewEnabled",
+      "expirationDateInMillis",
+      "readerMode",
+      "gatewayCourse"
+    ]
+  }
+}

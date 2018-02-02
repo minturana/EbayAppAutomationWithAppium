@@ -1,0 +1,53 @@
+users: 
+  user1:
+    email: niraj_prod@test.cengage.com
+    password: A111111
+    Incorrect_password: QAIT1111
+  user2:
+   email: niraj_prod@test.cengage.com
+   password: A111111
+   Incorrect_password: QAIT1111 
+  emailnocourse: mobileNonMindTapUser@swlearning.com
+  SSOUserName: oregonprefallstudent@swlearning.com
+  emailnocourse: mobilestudnocourse@swlearnng.com 
+
+Course:
+    Course1:
+      CourseName: Public Speaking
+      Instructor: AJ Instructor
+      Date: Sep 2, 2015 - Dec 31, 2016
+      FLASHCARDS: 3 - Ethical Speaking and Listening
+      QUIZZES: Building Your Confidence
+      Section:  ""
+      UNIT_VIEW:  Digital Appendix
+      UNIT_VIEW2: Citation Style Guide
+    Course2:
+      CourseName: Prod Global History Course
+      Instructor: Mindtap Mobile
+      Date: Mar 8, 2016 - Jul 23, 2016
+      FLASHCARDS: 
+      QUIZZES: 
+      UNIT_VIEW:  
+      Section:  ""
+    Course3:
+      CourseName: MedTerm Course
+      Instructor: AJ Instructor
+      Date: Dec 16, 2015 - Dec 31, 2016
+      FLASHCARDS: "Chapter 6: The Lymphatic and Immune Systems"
+      QUIZZES: The Lymphatic and Immune Systems
+      UNIT_VIEW: "Chapter 6: The Lymphatic and Immune Systems"
+      UNIT_VIEW2: Introduction
+    
+LoginError: Invalid username or password
+Loginfailed: Login failed
+Expiremsg: Temporary access Expired  
+  
+
+
+
+
+
+email:
+  send: false
+  recepients:
+    recepient1: tarundwivedi@qainfotech.net

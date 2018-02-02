@@ -1,0 +1,101 @@
+baseurl: https://s-login.cengagebrain.com/cb/login.htm
+SSO_TOKEN_URL:  http://kt-ws.cengage.com/ssows/rest/getToken
+PRODUCT_URL:   http://mindtap-staging.cengage.com/nb/service/launch
+PRODUCT_URL1:   http://qad-ng.cengage.com/nb/service/launch
+PRODUCT_URL2:   http://s-login.cengage.com/nb/service/launch
+users: 
+  user1:
+    email: Julie_stud1@cengagetest.com
+    password: A111111
+    Incorrect_password: QAIT1111
+    username: Ron Student
+  user2:
+    email: rmartin_stud@cengagetest.com
+    password: A111111
+    Incorrect_password: QAIT1111 
+    username: Ron Student
+  user3:
+    email: automationstudMobile1@swlearning.com
+    password: A111111
+    Incorrect_password: QAIT1111 
+    username: automationstud  
+  NonMindTapUser: mobileNonMindTapUser@swlearning.com
+  NoActiveCoursesUserName: sujan.stud@cengagetest.com
+  SSOUserName1: southwestjan2016@swlearning.com
+  SSOUserName2: southstu2816@swlearning.com
+  emailnocourse: mobilestudnocourse@swlearnng.com
+  InstructorEmail:  rmartin_inst@swlearning.com
+  
+  
+  
+
+Course:
+    Course1:
+      CourseName: Economics 201
+      courseKey: MTPPP3NPPQN9
+      Instructor: Ron Martin, Instructor Mt
+      Date: Jul 18, 2017 - Apr 30, 2018
+      ChapterName1: " 1 - Ten Principles of Economics"
+      ChapterName2: " 2 - Thinking Like an Economist"
+      BookTitle: " Principles of Microeconomics"
+      Section:  TR 3:00pm-4:00pm  |  section 3222
+      UNIT_VIEW:  Digital Appendix
+      courseKey:  MTPPP3NPPQN9
+      ISBN:  9781133353997
+     
+      
+    Course2:
+      CourseName: Economics 201
+      Instructor: Ron Martin
+      Date: Oct 28, 2014 - Oct 2, 2016
+      FLASHCARDS: Interdependence and the Gains from Trade - 3
+      QUIZZES: Interdependence and the Gains from Trade
+      UNIT_VIEW:  second chrome upload 
+      Section: TR 3:00pm-4:00pm  |  Section 51983
+      
+    Course3:
+      CourseName: Automation course 1
+      Instructor: Ron Martin
+      Date: Oct 28, 2014 - Oct 2, 2016
+      ChapterName1: " 1 - Ten Principles of Economics"
+      ChapterName2: " 2 - Thinking Like an Economist"
+      BookTitle: " Principles of Microeconomics"
+      FLASHCARDS: hello
+      QUIZZES: hi
+      UNIT_VIEW:  bye
+      Section: MW 2:00-4:30  |  Section 09142
+
+Gradebook:
+    Passcode: 1234
+    ManualScore: 1.0
+    ManualComment: Testing instructor comment
+    EditedComment: Testing edited instructor comment
+
+Activities:
+    activityName: Activity1
+    activityDescription: View Edit Description For Flashcards
+
+Notifications:
+    notificationMsg: Testing Notification
+    notificationTitle: Message from Ron Martin
+
+Flashcard:
+    key: Photography
+    definition: The art of taking pictures
+    UrlKey: https://www.linkedin.com/pulse/parallel-execution-grid-ios-android-real-devices-using-syam-sasi
+    Urldefiniton: Url Type Flashcard
+    LongTermTypeKey: ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMONOPQRSTUVWXYZABCDEFGHIJKLMONOPQRSTUVWX
+    LongtermtypeDefinition: Long Term Type Flashcard
+
+version: v1.0.39 dev 
+LoginError: Invalid username or password
+Loginfailed: Login failed
+Expiremsg: Temporary access Expired  
+
+
+
+
+email:
+  send: false
+  recepients:
+    recepient1: tarundwivedi@qainfotech.net

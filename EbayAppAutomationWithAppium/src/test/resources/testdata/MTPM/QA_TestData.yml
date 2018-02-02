@@ -1,0 +1,29 @@
+users: 
+  user1:
+    email: sunil.mishra@test.com
+    password: A111111
+  course:
+    numberOfCourse: 2
+    courseTitle: Pronunciation Course
+    instName: Ron Martin
+    Date: Dec 01, 2015 - Jan 01, 2016
+    Section: Section 49877
+    activityName: Chapter 2 Pronunciation Review
+    activityType: Counts towards grade
+    termName: Adenoma
+    
+
+
+
+Course:
+  CourseName: test mobile 1
+  FLASHCARDS: CHAPTER 1 - Introduction to Medical Terminology
+  QUIZZES: Introduction to Medical Terminology
+  UNIT_VIEW:  "Chapter 3: Homework (4 parts)"
+  
+  
+
+email:
+  send: false
+  recepients:
+    recepient1: tarundwivedi@qainfotech.net
